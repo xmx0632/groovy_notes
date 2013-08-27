@@ -21,11 +21,11 @@
       Groovy&#8217;s approach of treating every-thing as an object and all operators as method&#160;&#160;calls.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node POSITION="right" ID="ID_537051210" CREATED="1377504803000" MODIFIED="1377504890375">
+<node TEXT="3.The simple Groovy datatypes" POSITION="right" ID="ID_1500421340" CREATED="1377565522968" MODIFIED="1377565595968">
+<node ID="ID_537051210" CREATED="1377504803000" MODIFIED="1377504890375">
 <richcontent TYPE="NODE">
 <html>
   <head>
@@ -36,8 +36,11 @@
       3.3.1 Overview of overridable operators<br/>&#25805;&#20316;&#31526;&#37325;&#36733;&#65292;&#21508;&#31181;+ - * / [] &gt;&gt; ....&#37117;&#33021;&#34987;&#37325;&#36733;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+<node TEXT="3.5 Working with regular expressions" ID="ID_310291351" CREATED="1377565585203" MODIFIED="1377565586765"/>
+<node TEXT="3.6 Working with numbers" ID="ID_821359467" CREATED="1377569875343" MODIFIED="1377569883250"/>
+<node TEXT="http://groovy.codehaus.org/User+Guide" ID="ID_1555065953" CREATED="1377586427093" MODIFIED="1377586428046"/>
 </node>
 </node>
 </map>
